@@ -2,12 +2,17 @@
     <strong>Maratona Discover – <a target="_blank" rel="noreferrer noopener" href="https://rocketseat.com.br/">Rocketseat</a> 🚀</strong>
 </h1>
 
+<div align="center">
+    <img alt="Licença MIT" src="https://img.shields.io/github/license/bryan-lima/maratona-discover-rocketseat?label=License">
+</div>
+
 A [Maratona Discover][maratona-discover] é um evento realizado pela [@Rocketseat](https://github.com/rocketseat-education), em que é revisado e praticado o conteúdo da trilha **Discover** disponível através do link [app.rocketseat.com.br/discover][trilha-discover].
 
 <div align="center">
-  <a href="#-sobre"><strong>Sobre</strong></a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-tecnologias"><strong>Tecnologias</strong></a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-licença"><strong>Licença</strong></a>
+    <a href="#-sobre"><strong>Sobre</strong></a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+    <a href="#-tecnologias"><strong>Tecnologias</strong></a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+    <a href="#-deploy"><strong>Deploy</strong></a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+    <a href="#-licença"><strong>Licença</strong></a>
 </div>
 
 ## ✏️ Sobre
@@ -36,6 +41,10 @@ Este projeto foi desenvolvido utilizando as seguintes tecnologias:
 * [HTML][html]
 * [CSS][css]
 * [JavaScript][js]
+
+## 🏁 Deploy
+
+Veja o projeto em funcionamento: **[bryan-lima.github.io](https://bryan-lima.github.io/maratona-discover-rocketseat/)**
 
 ## 📃 Licença
 
